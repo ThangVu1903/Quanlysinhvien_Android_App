@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AppQuanLySinhVien/app/src/main/res/layout/activity_detail.xml" value="0.1" />
+        <entry key="..\:/AppQuanLySinhVien/app/src/main/res/layout/activity_dialog.xml" value="0.264" />
+        <entry key="..\:/AppQuanLySinhVien/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/AppQuanLySinhVien/app/src/main/res/layout/activity_sinhvien.xml" value="0.2" />
+        <entry key="..\:/AppQuanLySinhVien/app/src/main/res/layout/activity_sinhvien_detail.xml" value="0.1" />
+        <entry key="..\:/AppQuanLySinhVien/app/src/main/res/layout/customor_lop.xml" value="0.13518518518518519" />
+        <entry key="..\:/AppQuanLySinhVien/app/src/main/res/layout/customor_sinh.xml" value="0.13518518518518519" />
+        <entry key="..\:/AppQuanLySinhVien/app/src/main/res/layout/customor_sinhvien.xml" value="0.1875" />
+        <entry key="..\:/THANG/Dai_hoc/Nam_3/Hk1/LapTrinhMobile/AppQuanLySinhVien/app/src/main/res/layout/activity_main.xml" value="0.259375" />
+        <entry key="..\:/THANG/Dai_hoc/Nam_3/Hk1/LapTrinhMobile/AppQuanLySinhVien/app/src/main/res/layout/activity_sinhvien.xml" value="0.259375" />
+        <entry key="..\:/THANG/Dai_hoc/Nam_3/Hk1/LapTrinhMobile/AppQuanLySinhVien/app/src/main/res/layout/activity_sinhvien_detail.xml" value="0.259375" />
+        <entry key="..\:/THANG/Dai_hoc/Nam_3/Hk1/LapTrinhMobile/AppQuanLySinhVien/app/src/main/res/layout/customor_lop.xml" value="0.259375" />
+        <entry key="..\:/THANG/Dai_hoc/Nam_3/Hk1/LapTrinhMobile/AppQuanLySinhVien/app/src/main/res/layout/customor_sinhvien.xml" value="0.259375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
